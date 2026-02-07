@@ -2,7 +2,7 @@
 
 [![Android Build](https://github.com/SimonBaars/Android-AutoScreenshot/actions/workflows/android-build.yml/badge.svg)](https://github.com/SimonBaars/Android-AutoScreenshot/actions/workflows/android-build.yml)
 
-An Android app that takes screenshots every 10 seconds, organizing them by date and removing identical screenshots automatically.
+An  Android app that takes screenshots every 10 seconds, organizing them by date and removing identical screenshots automatically.
 
 ## How to install
 
